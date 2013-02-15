@@ -1,4 +1,12 @@
 Wordpress-breadcrumb
 ====================
 
-I wrote a quite clean breadcrumb function, you just need to copy/paste it in the functions.php file from your WordPress theme. If this file doesn’t exists, just create one and paste the function on it.
+Breadcrumbs or breadcrumb trail are a navigation technique used in user interfaces.
+Its purpose is to give users a way to keep track of their location within programs or documents.
+The term is taken from the trail of breadcrumbs left by Hansel and Gretel in the popular fairytale.
+
+there is two files:-
+function.php
+page.php
+
+
